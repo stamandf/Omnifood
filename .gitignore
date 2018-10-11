@@ -1,3 +1,8 @@
+.gitignore
 node_modules/
 CourseMaterial/
 .DS_Store
+ionicons-2.0.1.zip
+ionicons-2.0.1/
+ionicons.designerpack.zip
+ionicons.designerpack/
