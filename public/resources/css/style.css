@@ -585,3 +585,14 @@ footer p {
   text-align: center;
   margin-top: 30px;
 }
+
+/* -------- ** ANIMATION **  -------- */
+
+.js--wp-1 {
+    opacity: 0;
+    /* animation-duration: 1s; */
+}
+
+.js--wp-1.animated {
+    opacity: 1;
+}
